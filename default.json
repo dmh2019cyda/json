@@ -14,6 +14,7 @@
                 }
             },
             {
+                "kind": "t5",
                 "data":{
                     "url": "/r/gadgets/",
                     "display_name": "仁濟醫院安老服務",
