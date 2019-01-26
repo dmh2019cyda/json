@@ -28,6 +28,31 @@
                     "public_description" : "工聯康齡長者服務社是認可註冊慈善團體(1995)，致力提供適切及多元化的活動和服務以滿足長者需要，期望長者能夠「老有所為、老有所學、老有所樂」，讓長者有一個豐盛而健康的晚年。",
                     "icon_img": "https://b.thumbs.redditmedia.com/E6-lBIXAELKdtcb4HaXUEuSSIKrsF9tOUgjnb5UYFrU.png"
                 }
+            },
+            {
+                "data":{
+                    "url": "https://www.schsa.org.hk/tc/services/lifebook/index.html",
+                    "display_name": "長者生命故事(個人化印書服務) Lifebook",
+                    "icon_img": "https://b.thumbs.redditmedia.com/E6-lBIXAELKdtcb4HaXUEuSSIKrsF9tOUgjnb5UYFrU.png",
+                    "public_description" : "我們相信每一位長者的一生是獨特的、不平凡的，透過長者生命故事(個人化印書服務)，將長者的人生體驗、生活智慧和時代見證，永誌留存，成為下一代永久珍藏。"
+                }
+            },
+            
+            {
+                "data":{
+                    "url": "https://www.ljc.org.hk/",
+                    "display_name": "「生命．歷情」體驗館",
+                    "icon_img": "https://b.thumbs.redditmedia.com/E6-lBIXAELKdtcb4HaXUEuSSIKrsF9tOUgjnb5UYFrU.png",
+                    "public_description" : "「生命‧歷情」體驗館是全亞洲首個利用嶄新手法讓年輕一代從新角度學習及了解年老。利用社會創新、體驗式學習和互動式設計，配合多媒體遊戲、視覺及影音效果，帶動參加者在60分鐘內經歷模擬人生，於體驗過程的衝擊下，重新思索何謂「年青」、何謂「年老」。"
+                }
+            },
+            {
+                "data":{
+                    "url": "https://www.schsa.org.hk/tc/services/Message/index.html",
+                    "display_name": "「愛‧留聲」心聲輯錄服務",
+                    "icon_img": "https://b.thumbs.redditmedia.com/E6-lBIXAELKdtcb4HaXUEuSSIKrsF9tOUgjnb5UYFrU.png",
+                    "public_description" : "《愛‧留聲》心聲輯錄服務是協會於2013年9月成立的創新服務，我們希望鼓勵長者或其家人把握時間，在錄音室內將心底話說出，無論是愛惜、感謝、思念、鼓勵，甚至道歉的說話，一一輯錄於特別的儲存器內，並包裝為珍貴的小禮物送給對方，以作永久珍藏。"
+                }
             }
         ],
         "after": "t5_2qqjc",
