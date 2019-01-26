@@ -1,0 +1,74 @@
+[{
+    "data":{
+        "url": "http://www.emv.org.hk/services09.php",
+        "display_name": "綜合家居照顧服務",
+        "public_description" : "綜合家居照顧服務主要為未能自我照顧或未能維持正常家居功能的個人或家庭，提供一系列的家居照顧及社區支援服務，使他們能繼續留在社區中生活"
+    }
+},
+{
+    "data":{
+        "url": "http://www.emv.org.hk/services10.php",
+        "display_name": "關懷獨居老人服務計劃",
+        "public_description" : "隨著香港老人人口的急劇增長及老化社區的出現，獨居老人的健康備受社會人士關注。有見及此，本會希望透過義工的探訪，為獨居或缺乏照顧的長者提供非常規性的醫療照顧及支援網絡，增強其自我照顧能力，讓獨居長者能繼續留在熟悉的社區內獨立自主地生活。"
+    }
+},
+{
+    "data":{
+        "url": "https://www.yanchai.org.hk/services/social-services/elderly-services",
+        "display_name": "仁濟醫院安老服務",
+        "public_description" : "本院於 1982 年開始，為本港的老人提供社會服務，而在過去三十多年間有多間老人院舍及中心相繼落成，投入服務。本院目前共有二十三個安老服務單位，為大約 8,400名會員提供各種服務，包括文娛康樂、社區教育及參與、興趣學習、個人衛生、醫療護理、膳食住宿及為有需要長者提供度身訂造之上門服務，使體弱長者可以按其意願繼續在家安享晚年及使護老者得到支援。"
+    }
+},
+{
+    "data":{
+        "url": "http://hongling.org.hk/index.php?route=common/home ",
+        "display_name": "工聯康齡長者服務社",
+        "public_description" : "工聯康齡長者服務社是認可註冊慈善團體(1995)，致力提供適切及多元化的活動和服務以滿足長者需要，期望長者能夠「老有所為、老有所學、老有所樂」，讓長者有一個豐盛而健康的晚年。"
+    }
+},
+
+{
+    "data":{
+        "url": "https://cpmssceg.org.hk/",
+        "display_name": "中華便以利會恩慈長者鄰舍中心",
+        "public_description" : "2019年1月份精彩活动"
+    }
+},
+{
+    "data":{
+        "url": "http://www.soco.org.hk/project/project031_c.htm",
+        "display_name": "香港老人權益聯盟",
+        "public_description" : "以推廣老人權益為目標，使他們相信自己不是一個被動受惠者，而是積極主動進取的參與耆，促使老人改善現時生活狀況。"
+    }
+},
+{
+    "data":{
+        "url": "https://www.schsa.org.hk/tc/services/smart_home/index.html",
+        "display_name": "「長者智能家居」試驗計劃",
+        "public_description" : "本港人口迅速老齡化，香港作為智慧城市，資訊科技已是日常生活中不可缺少的一部份。長者安居協會策劃全新「長者智能家居」試驗計劃，推動新型居家安老服務平台，希望透過結合現代智能家居科技與長者關顧服務，務求減少包括因長者在煮食時忘記爐火、浴室浸水等引致的家居意外，配合協會二十多年經驗豐富的熱線中心團隊作支援，讓社區長者及銀齡人士活得更自主、更平安。"
+    }
+},
+{
+    "data":{
+        "url": "https://www.schsa.org.hk/tc/services/lifebook/index.html",
+        "display_name": "長者生命故事(個人化印書服務) Lifebook",
+        "public_description" : "我們相信每一位長者的一生是獨特的、不平凡的，透過長者生命故事(個人化印書服務)，將長者的人生體驗、生活智慧和時代見證，永誌留存，成為下一代永久珍藏。"
+    }
+},
+
+{
+    "data":{
+        "url": "https://www.ljc.org.hk/",
+        "display_name": "「生命．歷情」體驗館",
+        "public_description" : "「生命‧歷情」體驗館是全亞洲首個利用嶄新手法讓年輕一代從新角度學習及了解年老。利用社會創新、體驗式學習和互動式設計，配合多媒體遊戲、視覺及影音效果，帶動參加者在60分鐘內經歷模擬人生，於體驗過程的衝擊下，重新思索何謂「年青」、何謂「年老」。"
+    }
+},
+{
+    "data":{
+        "url": "https://www.schsa.org.hk/tc/services/Message/index.html",
+        "display_name": "「愛‧留聲」心聲輯錄服務",
+        "public_description" : "《愛‧留聲》心聲輯錄服務是協會於2013年9月成立的創新服務，我們希望鼓勵長者或其家人把握時間，在錄音室內將心底話說出，無論是愛惜、感謝、思念、鼓勵，甚至道歉的說話，一一輯錄於特別的儲存器內，並包裝為珍貴的小禮物送給對方，以作永久珍藏。"
+    }
+}
+
+]
